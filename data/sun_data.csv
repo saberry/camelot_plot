@@ -1,0 +1,25 @@
+ids,labels,parents,camelot,songs,key_mode
+1A/1B,1B,1A,1B,paradise city,Bmaj
+2A/2B,2B,2A,2B,pink pony club<br>mony mony,F#maj
+3A/3B,3B,3A,3B,mr brightside,Dbmaj
+4A/4B,4B,4A,4B,only the lonely,Abmaj
+5A/5B,5B,5A,5B,its a long way to the top,Ebmaj
+6A/6B,6B,6A,6B,too sweet ,Bbmaj
+7A/7B,7B,7A,7B,None,Fmaj
+8A/8B,8B,8A,8B,sk8er boi<br>livin on a prayer<br>all the small things,Cmaj
+9A/9B,9B,9A,9B,zombie<br>sweet child o mine<br>working for the weekend,Gmaj
+10A/10B,10B,10A,10B,whats up<br>one way or another<br>just a girl<br>american girl<br>breakfast at tiffanys<br>summer of 69<br>love story,Dmaj
+11A/11B,11B,11A,11B,just like heaven<br>roam,Amaj
+12A/12B,12B,12A,12B,you oughta know<br>poker face,Emaj
+1A,1A,,1A,None,Abmin
+2A,2A,,2A,None,Ebmin
+3A,3A,,3A,None,Bbmin
+4A,4A,,4A,None,Fmin
+5A,5A,,5A,None,Cmin
+6A,6A,,6A,None,Gmin
+7A,7A,,7A,call me,Dmin
+8A,8A,,8A,None,Amin
+9A,9A,,9A,None,Emin
+10A,10A,,10A,None,Bmin
+11A,11A,,11A,levitating,F#min
+12A,12A,,12A,hey soul sister<br>only happy when it rains,Dbmin
